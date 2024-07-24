@@ -67,7 +67,7 @@ If the script fails to detect the iris or pupil, it will display diagnostic info
 
 ## Contact
 
-If you want to contact me, you can reach me at `<nikhilkps1538@gmail.com>`.
+If you want to contact me, you can reach me at `nikhilkps1538@gmail.com`.
 
 ## License
 
